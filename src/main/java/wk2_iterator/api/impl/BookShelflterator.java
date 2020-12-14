@@ -1,4 +1,6 @@
-package wk2_iterator;
+package wk2_iterator.api.impl;
+
+import wk2_iterator.api.Iterator;
 
 public class BookShelflterator implements Iterator {
 

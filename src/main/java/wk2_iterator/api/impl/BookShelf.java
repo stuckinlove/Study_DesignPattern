@@ -1,6 +1,9 @@
-package wk2_iterator;
+package wk2_iterator.api.impl;
 
-public class BookShelf implements Aggregate{
+import wk2_iterator.api.Aggregate;
+import wk2_iterator.api.Iterator;
+
+public class BookShelf implements Aggregate {
     private Book [] books;
     private int last = 0;
 

@@ -1,4 +1,4 @@
-package wk2_iterator;
+package wk2_iterator.api.impl;
 
 public class Book {
     private String name;
